@@ -1,6 +1,3 @@
-├── bike-sharing-assignment.ipynb         # Main Jupyter Notebook containing the code and linear regression models
-├── Bike Sharing Subjective Questions.pdf # DetailedHere is a comprehensive and professional README template tailored for your Bike Sharing Assignment GitHub repository. You can copy this directly into your `README.md` file.
-
 ***
 
 # 🚲 BoomBikes Demand Prediction: Multiple Linear Regression

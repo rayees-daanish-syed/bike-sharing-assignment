@@ -15,9 +15,9 @@ The primary goal is to understand the factors affecting the demand for these sha
 The analysis and model building process follows a structured pipeline[cite: 4]:
 1. Reading, Understanding, and Quality Check of the data[cite: 4].
 2. Visualising the Data[cite: 4].
-3. Data Preparation (including dummy variable creation using `drop_first=True` to prevent multicollinearity)[cite: 3, 4].
+3. Data Preparation, including dummy variable creation using `drop_first=True` to prevent perfect multicollinearity and the dummy variable trap[cite: 3, 4].
 4. Splitting Data into Train-Test and Scaling[cite: 4].
-5. Building a Linear Model (utilizing both Backward Selection and Recursive Feature Elimination)[cite: 4].
+5. Building a Linear Model utilizing both Backward Selection and Recursive Feature Elimination[cite: 4].
 6. Residual Analysis to validate model assumptions[cite: 4].
 7. Making Predictions[cite: 4].
 8. Model Evaluation[cite: 4].

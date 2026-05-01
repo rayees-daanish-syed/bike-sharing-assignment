@@ -1,5 +1,3 @@
-***
-
 # 🚲 BoomBikes Demand Prediction: Multiple Linear Regression
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
